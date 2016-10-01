@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hola!
+Thi is my first repository, excited to learn new things!
+
